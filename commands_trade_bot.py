@@ -15,10 +15,10 @@ import asyncio
 db = Database('database.db')
 
 logging.basicConfig(level=logging.INFO)
-bot_name = 'MetaMask'
-helped_users = '@help_metamask'
-card_num = '2202203213143540'
-crypto_num = '123456'
+bot_name = ''
+helped_users = ''
+card_num = ''
+crypto_num = ''
 min_sum = 1500
 waiting_time = 5
 
