@@ -27,3 +27,8 @@ waiting_time - кол-во секунд для ожидания пользова
 в config.py:
 qiwi_token - токен для qiwiAPI. Получается на сайте: p2p.qiwi.com -> ключи API -> создать пару ключей.
 token_api - токен для бота.
+
+
+Запуск:
+для запуска на windows: открывает файл start.bat
+для запуска на linux или unix: переходим в папку бота и пишем 'python3 run.py'
