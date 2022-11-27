@@ -1,4 +1,4 @@
 @echo off
 
-title scam bot
+title trade bot
 python run.py
